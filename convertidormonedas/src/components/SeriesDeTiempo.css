@@ -1,0 +1,88 @@
+/* series-de-tiempo-container */
+
+.series-de-tiempo-container {
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 20px;
+  border: 1px solid #6c757d; 
+  border-radius: 10px;
+  background-color: #e9f5e8; 
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.series-de-tiempo-container h2 {
+  font-size: 24px; 
+  margin-bottom: 20px;
+}
+
+.series-de-tiempo-container label {
+  font-size: 16px;
+  margin-right: 10px;
+}
+
+.series-de-tiempo-container input[type="date"],
+.series-de-tiempo-container input[type="text"] {
+  padding: 6px;
+  font-size: 14px;
+  width: 150px; 
+}
+
+.series-de-tiempo-container p {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.series-de-tiempo-container ul {
+  list-style: none;
+  padding: 0;
+}
+
+.series-de-tiempo-container li {
+  font-size: 16px;
+  margin-bottom: 5px;
+}
+
+.center {
+  text-align: left;
+  margin-left: 20px;
+}
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+input[type="date"],
+input[type="text"] {
+  padding: 8px;
+  margin-bottom: 10px;
+  width: 100%;
+  font-size: 16px;
+}
+
+label {
+  font-weight: bold;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+ul li {
+  margin-bottom: 10px;
+}
+
+ul li strong {
+  font-size: 18px;
+}
+
+ul li ul {
+  margin-top: 5px;
+  margin-left: 20px;
+}
+
+ul li ul li {
+  font-size: 14px;
+}
+  
